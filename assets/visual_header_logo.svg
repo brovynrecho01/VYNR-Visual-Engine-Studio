@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="26" fill="#09090B"/>
+  <rect x="3" y="3" width="114" height="114" rx="23" stroke="#E5B84B" stroke-opacity="0.45" stroke-width="2"/>
+  <circle cx="60" cy="54" r="34" stroke="#E5B84B" stroke-width="4.5"/>
+  <path d="M60 26L72 58L60 81L48 58L60 26Z" stroke="#E5B84B" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M33 46L52 50L60 81L68 50L87 46" stroke="#E5B84B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="60" y="106" text-anchor="middle" fill="#E5B84B" font-family="Cinzel, Georgia, serif" font-weight="800" font-size="16" letter-spacing="3">VYNR</text>
+</svg>
